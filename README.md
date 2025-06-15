@@ -9,8 +9,7 @@ This is a modern, full-stack Pomodoro timer and task management application buil
 
 ## 📸 Screenshots
 
-| Login Screen | Main Application View |
-| :---: | :---: |
+| Main Application View |
 | ![Main Screen](assets/ss.png) | 
 > *Make sure to add your screenshots to a `screenshots` folder in the root directory.*
 
